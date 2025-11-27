@@ -7,7 +7,7 @@ It is **not final** and **not intended for production use** at this stage.
 
 ## 🌐 Live Website
 
-[View Live Prototype](https://my-portfolio.vercel.app)  
+[View Live Prototype](https://fadil-nurmaulid.vercel.app)  
 
 ---
 
